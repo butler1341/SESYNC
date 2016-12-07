@@ -2,4 +2,4 @@
 
 Goals
 
--
+- Work with a team.
